@@ -1,6 +1,6 @@
 # Dragon Quest V: Hand of the Heavenly Bride — Tradução PT-BR
 
-Estado da Tradução:
+## Estado da Tradução:
 
 História principal e diálogos	100%,
 
@@ -15,7 +15,8 @@ Monstros e nomes de inimigos 100%,
 Menus e textos de sistema 100%;
 
 
-Progresso geral estimado: 100%!
+
+### Progresso geral estimado: 100%!
 
 ## Observações
 
