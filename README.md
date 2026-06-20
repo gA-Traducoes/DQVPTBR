@@ -1,4 +1,4 @@
-##Dragon Quest V: Hand of the Heavenly Bride — Tradução PT-BR
+# Dragon Quest V: Hand of the Heavenly Bride — Tradução PT-BR
 
 Estado da Tradução:
 
@@ -17,12 +17,12 @@ Menus e textos de sistema 100%;
 
 Progresso geral estimado: 100%!
 
-##Observações
+## Observações
 
 Algumas falas utilizam sotaques, erros de pronúncia e maneiras peculiares de falar propositalmente. Esses casos foram preservados, incluindo personagens como Ladja e NPCs que falam com sotaque rural ou estrangeiro.
 
 
-##ROM-base obrigatória
+## ROM-base obrigatória
 
 Utilize uma cópia limpa da versão europeia:
 
@@ -36,7 +36,7 @@ Utilize uma cópia limpa da versão europeia:
 
 O patch não deve ser aplicado sobre uma ROM já traduzida, modificada, aparada, expandida ou que tenha recebido outro patch anteriormente.
 
-##Como aplicar o patch
+## Como aplicar o patch
 
 1. Acesse o "Rom Patcher JS" (https://www.marcrobledo.com/RomPatcher.js/).
 2. Em ROM file, selecione a ROM europeia original em formato ".nds".
@@ -49,7 +49,7 @@ O procedimento funciona tanto no celular quanto no computador.
 
 «Use exclusivamente a ROM europeia original compatível. O projeto não inclui a ROM do jogo.»
 
-##Configuração de idioma
+## Configuração de idioma
 
 A tradução foi inserida nos bancos de texto inglês e espanhol.
 
@@ -59,7 +59,7 @@ Para jogar em português, configure o console ou emulador para:
 
 Independentemente de qual desses dois idiomas estiver selecionado, o jogo apresentará os textos em português brasileiro.
 
-##Verificação do resultado
+## Verificação do resultado
 
 Após aplicar corretamente o patch, a ROM final deverá possuir:
 
@@ -71,7 +71,7 @@ Após aplicar corretamente o patch, a ROM final deverá possuir:
 
 Caso os dados sejam diferentes, verifique se a ROM-base utilizada é exatamente a versão europeia exigida.
 
-##Erros comuns
+## Erros comuns
 
 - Source ROM mismatch ou checksum incorreto: a ROM-base não corresponde exatamente à versão europeia exigida pelo patch.
 - O jogo não inicia: aplique novamente o patch sobre uma cópia limpa da ROM, sem traduções ou modificações anteriores.
@@ -79,7 +79,7 @@ Caso os dados sejam diferentes, verifique se a ROM-base utilizada é exatamente 
 - O jogo aparece em francês, alemão ou italiano: configure o idioma do console ou do emulador para inglês ou espanhol.
 - Os textos não aparecem em português: verifique se o patch foi realmente aplicado e compare o SHA-256 da ROM final.
 
-##Aviso legal
+## Aviso legal
 
 Este projeto é uma tradução e modificação produzida por fãs e não inclui a ROM, o jogo original ou qualquer outro conteúdo comercial.
 
@@ -87,7 +87,7 @@ Para utilizar o patch, o usuário deve fornecer legalmente sua própria cópia d
 
 O patch contém somente as alterações necessárias para aplicar a tradução.
 
-##💛 Apoie a gA Traduções
+## 💛 Apoie a gA Traduções
 
 Este projeto é gratuito e continuará disponível para todos.
 
